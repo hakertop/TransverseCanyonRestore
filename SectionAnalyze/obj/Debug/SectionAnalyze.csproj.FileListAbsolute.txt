@@ -1,0 +1,30 @@
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\SectionAnalyze.exe
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\SectionAnalyze.pdb
+E:\PhD Research\PerfectProgram\SectionAnalyze\obj\Debug\SectionAnalyze.csproj.CoreCompileInputs.cache
+E:\PhD Research\PerfectProgram\SectionAnalyze\obj\Debug\SectionAnalyze.exe
+E:\PhD Research\PerfectProgram\SectionAnalyze\obj\Debug\SectionAnalyze.pdb
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\SectionAnalyze.exe.config
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\GeologicalEntity.dll
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\GeologicalEntity.pdb
+E:\PhD Research\PerfectProgram\SectionAnalyze\obj\Debug\SectionAnalyze.csproj.CopyComplete
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\GdalLib.dll
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\GdalLib.pdb
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\GeoCommon.dll
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\GeoCommon.pdb
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\SectionModelEntry.dll
+E:\PhD Research\PerfectProgram\SectionAnalyze\bin\Debug\SectionModelEntry.pdb
+E:\PhD Research\PerfectProgram\SectionAnalyze\obj\Debug\SectionAnalyze.csprojAssemblyReference.cache
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\GdalLib.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\GeoCommon.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\SectionModelEntry.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\GdalLib.pdb
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\GeoCommon.pdb
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\SectionModelEntry.pdb
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\obj\Debug\SectionAnalyze.csprojAssemblyReference.cache
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\obj\Debug\SectionAnalyze.csproj.CoreCompileInputs.cache
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\obj\Debug\SectionAnalyze.csproj.CopyComplete
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\CanyonRecovery.exe.config
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\CanyonRecovery.exe
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\bin\Debug\CanyonRecovery.pdb
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\obj\Debug\CanyonRecovery.exe
+E:\MyEssay\CanyonRecovery\PerfectProgram\SectionAnalyze\obj\Debug\CanyonRecovery.pdb

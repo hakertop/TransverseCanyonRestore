@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanyonRecovery", "CanyonRecovery.csproj", "{34EBEA75-6823-4301-9B3C-18B7B0D8D028}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B} = {F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}
+		{E9A38943-AF19-417F-8FB6-F600B66336F3} = {E9A38943-AF19-417F-8FB6-F600B66336F3}
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC} = {D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D} = {EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GdalLib", "..\GdalLib\GdalLib.csproj", "{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoCommon", "..\GeoCommon\GeoCommon.csproj", "{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D} = {EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanyonRecoveryEntry", "..\SectionModelEntry\CanyonRecoveryEntry.csproj", "{E9A38943-AF19-417F-8FB6-F600B66336F3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC} = {D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D} = {EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "..\Triangle\Triangle.csproj", "{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EBEA75-6823-4301-9B3C-18B7B0D8D028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EBEA75-6823-4301-9B3C-18B7B0D8D028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EBEA75-6823-4301-9B3C-18B7B0D8D028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EBEA75-6823-4301-9B3C-18B7B0D8D028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A38943-AF19-417F-8FB6-F600B66336F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A38943-AF19-417F-8FB6-F600B66336F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A38943-AF19-417F-8FB6-F600B66336F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A38943-AF19-417F-8FB6-F600B66336F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83980E55-8D74-4B23-A6D8-108CAC8B6827}
+	EndGlobalSection
+EndGlobal

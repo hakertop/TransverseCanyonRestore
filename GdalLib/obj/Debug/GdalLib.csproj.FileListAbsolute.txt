@@ -1,0 +1,32 @@
+E:\PhD Research\PerfectProgram\GdalLib\bin\Debug\GdalLib.dll
+E:\PhD Research\PerfectProgram\GdalLib\bin\Debug\GdalLib.pdb
+E:\PhD Research\PerfectProgram\GdalLib\bin\Debug\gdalconst_csharp.dll
+E:\PhD Research\PerfectProgram\GdalLib\bin\Debug\gdal_csharp.dll
+E:\PhD Research\PerfectProgram\GdalLib\bin\Debug\ogr_csharp.dll
+E:\PhD Research\PerfectProgram\GdalLib\bin\Debug\osr_csharp.dll
+E:\PhD Research\PerfectProgram\GdalLib\obj\Debug\GdalLib.csproj.CoreCompileInputs.cache
+E:\PhD Research\PerfectProgram\GdalLib\obj\Debug\GdalLib.csproj.CopyComplete
+E:\PhD Research\PerfectProgram\GdalLib\obj\Debug\GdalLib.dll
+E:\PhD Research\PerfectProgram\GdalLib\obj\Debug\GdalLib.pdb
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\bin\Debug\GdalLib.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\bin\Debug\GdalLib.pdb
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\bin\Debug\gdalconst_csharp.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\bin\Debug\gdal_csharp.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\bin\Debug\ogr_csharp.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\bin\Debug\osr_csharp.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\obj\Debug\GdalLib.csproj.CoreCompileInputs.cache
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\obj\Debug\GdalLib.csproj.CopyComplete
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\obj\Debug\GdalLib.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\obj\Debug\GdalLib.pdb
+E:\MyEssay\CanyonRecovery\PerfectProgram\GdalLib\obj\Debug\GdalLib.csprojAssemblyReference.cache
+E:\MyEssay\PerfectProgram\GdalLib\bin\Debug\GdalLib.dll
+E:\MyEssay\PerfectProgram\GdalLib\bin\Debug\GdalLib.pdb
+E:\MyEssay\PerfectProgram\GdalLib\bin\Debug\gdalconst_csharp.dll
+E:\MyEssay\PerfectProgram\GdalLib\bin\Debug\gdal_csharp.dll
+E:\MyEssay\PerfectProgram\GdalLib\bin\Debug\ogr_csharp.dll
+E:\MyEssay\PerfectProgram\GdalLib\bin\Debug\osr_csharp.dll
+E:\MyEssay\PerfectProgram\GdalLib\obj\Debug\GdalLib.csprojAssemblyReference.cache
+E:\MyEssay\PerfectProgram\GdalLib\obj\Debug\GdalLib.csproj.CoreCompileInputs.cache
+E:\MyEssay\PerfectProgram\GdalLib\obj\Debug\GdalLib.csproj.CopyComplete
+E:\MyEssay\PerfectProgram\GdalLib\obj\Debug\GdalLib.dll
+E:\MyEssay\PerfectProgram\GdalLib\obj\Debug\GdalLib.pdb
